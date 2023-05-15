@@ -1,6 +1,6 @@
 jism progressive engine
 
-Copyright (C) 2020,2021 Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+Copyright (C) 2020-2023 Masscollabs Services
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU Affero General Public License as published by the Free
@@ -18,4 +18,4 @@ with this program. If not, see <https://www.gnu.org/licenses/>.
 
 # jism-progressive-engine
 
-jism progressive engine
+jism progressive engine is about hardware framework for control of your own product
