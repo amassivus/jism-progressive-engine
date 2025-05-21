@@ -1,6 +1,12 @@
+# jism-progressive-engine
+
+jism progressive engine is about hardware framework for control of your own product
+
+# License
+
 jism progressive engine
 
-Copyright (C) 2020-2024 Masscollabs Services
+Copyright (C) 2017-2025 Masscollabs Services
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU Affero General Public License as published by the Free
@@ -15,7 +21,3 @@ details.
 You should have received a copy of the GNU Affero General Public License along
 with this program. If not, see <https://www.gnu.org/licenses/>.
 
-
-# jism-progressive-engine
-
-jism progressive engine is about hardware framework for control of your own product
